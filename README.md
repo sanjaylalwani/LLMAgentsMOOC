@@ -11,7 +11,7 @@ This repository is a collection of NotebookLM summary of YouTube classes of LLM 
 |   6   | Agents for Software Development  | Graham Neubig, OpenAI  | [CS 194/294-196 (LLM Agents) - Lecture 6, Graham Neubig](https://www.youtube.com/live/f9L9Fkq-8K4) | [NotebookLM Lecture 6](https://notebooklm.google.com/notebook/1103fa01-cee2-4c4c-a587-4bbc393e3e11?_gl=1*1o500v8*_ga*MTcwMjkyMzQ3MC4xNzI3NjI2NjE0*_ga_W0LDH41ZCB*MTcyOTE4MzgwMS4yLjAuMTcyOTE4MzgwMS42MC4wLjA.)  |
 |   7   | AI Agents for Enterprise Workflows  | Nicolas Chapados and Alexandre Drouin  | [CS 194/294-196 (LLM Agents) - Lecture 7, Nicolas Chapados and Alexandre Drouin](https://www.youtube.com/live/-yf-e-9FvOc)  | [NotebookLM Lecture 7](https://notebooklm.google.com/notebook/51dfdf23-3500-4f52-aa06-066b5c1da13a?_gl=1*1o500v8*_ga*MTcwMjkyMzQ3MC4xNzI3NjI2NjE0*_ga_W0LDH41ZCB*MTcyOTE4MzgwMS4yLjAuMTcyOTE4MzgwMS42MC4wLjA.) |
 |   8   | Towards a unified framework of Neural and Symbolic Decision Making  | Yuandong Tian, Meta AI (FAIR)  | [CS 194/294-196 (LLM Agents) - Lecture 8, Yuandong Tian](https://www.youtube.com/live/wm9-7VBpdEo)  | |
-|   9   |  Foundation Agent |  Jim Fan, NVIDIA  |   |   |
+|   9   |  Foundation Agent |  Jim Fan, NVIDIA  | [LLM Agents - Lecture 9](https://www.youtube.com/watch?v=Qhxr0uVT2zs)   | [LLM Agents - Lecture 9](https://notebooklm.google.com/notebook/be092216-a19f-4169-8f2b-7e4701e3afe9?_gl=1*1o500v8*_ga*MTcwMjkyMzQ3MC4xNzI3NjI2NjE0*_ga_W0LDH41ZCB*MTcyOTE4MzgwMS4yLjAuMTcyOTE4MzgwMS42MC4wLjA.)  |
 |   10   |  Cybersecurity, agents, and open-source  | Percy Liang, Stanford University   |   |   |
 |   11   | Measuring Agent capabilities and Anthropic’s RSP  |  Ben Mann, Anthropic  |   |   |
 |   12   | LLM Agent Safety  |  Dawn Song, UC Berkeley  |   |   |
